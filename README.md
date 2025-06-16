@@ -34,7 +34,6 @@ A modern, responsive landing page for a cleaning service business, built using *
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
+git remote add origin https://github.com/GraceO7/cleanify.git
 
-```bash
-git clone https://github.com/your-username/cleaning-landing-page.git
 cd cleaning-landing-page
